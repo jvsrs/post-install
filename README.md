@@ -2,6 +2,8 @@
 
 Um Shell Script automático de pós instalação do Ubuntu 20.04 LTS e seus derivados. Você poderá usar esse script para instalar seus programas e aplicativos favoritos e fazer suas alterações no sistema.
 
+Alguns dos programas incluídos: Chrome e Firefox, Discord, Telegram, Steam e Lutris, OBS Studio, VLC, qBittorrent, Spotify, Stremio, [DeezerRPC](https://github.com/Braasileiro/DeezerRPC), [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) e muitos outros. Já está incluido o NodeJS e o Java JDK 8 para desenvolvimento, juntamente com o VS Code
+
 ![Bash](https://static.prasadt.com/logo64/bash.png)
 
 ### 📋 Pré-requisitos
