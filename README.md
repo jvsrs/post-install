@@ -31,4 +31,4 @@ Acrescentar funções adicionais é fácil ao editar uma das pré-incluidas, sim
 
 ## 📄 Licença
 
-Este projeto está sob a licença GNU General Public License v3.0 - veja o arquivo [LICENSE.md](https://github.com/VanillasC/post-install/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença GNU General Public License v3.0 - veja o arquivo [LICENSE](https://github.com/VanillasC/post-install/blob/main/LICENSE) para detalhes.
