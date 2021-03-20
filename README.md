@@ -17,7 +17,7 @@ Para baixar o script você precisará clonar este respositório. Para isso, rode
 ```
 git clone https://github.com/VanillasC/post-install.git
 ```
-Como alternativa, você pode [baixar](https://github.com/VanillasC/post-install/archive/refs/heads/main.zip) este repositório em zip.
+Como alternativa, você pode [baixar](https://github.com/VanillasC/post-install/releases/download/v0.1.1/start.sh) diretamente o script.
 
 Para rodar o script em sua máquina e iniciar a instalação:
 ```
