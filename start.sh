@@ -11,7 +11,7 @@ downloads=(
 "https://github.com/Braasileiro/DeezerRPC/releases/download/1.0.2/DeezerRPC-1.0.2.AppImage"
 )
 
-pacotes_apt=(winff ffmpeg youtube-dl mpv gnome-boxes gnome-tweaks obs-studio vlc steam-installer lutris openjdk-8-jdk flatpak gnome-software-plugin-flatpak gnome-software adwaita-icon-theme-full git curl)
+pacotes_apt=(winff ffmpeg youtube-dl mpv gnome-boxes gnome-tweaks obs-studio vlc steam-installer firefox lutris openjdk-8-jdk nodejs flatpak gnome-software-plugin-flatpak gnome-software adwaita-icon-theme-full git curl)
 pacotes_apt_recomendados=(winehq-stable wine-stable wine-stable-i386 wine-stable-amd64 winetricks)
 
 libs_32bits=(gnutls30 ldap-2.4-2 gpg-error0 xml2 asound2-plugins sdl2-2.0-0 freetype6 dbus-1-3 sqlite3-0)
