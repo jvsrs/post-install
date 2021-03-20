@@ -49,7 +49,7 @@ sudo apt install $(echo "${libs_32bits[@]}" | tr ' ' '\n' | awk '{print "lib"$1"
 snap install ${snaps[@]}
 snap install --classic ${snaps_classic[@]}
 flatpak remote-add --if-not-exists flathub ${repositorio_flatpak[@]}
-flatpak install flathub ${flatpaks[@]}
+flatpak install flathub -y ${flatpaks[@]}
 apt install ./*.deb
 
 mkdir $HOME/Applications
